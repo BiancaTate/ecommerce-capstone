@@ -5,6 +5,11 @@ h1{
 p{
     text-align: center;
 }
-.form-check{
+.mb-3{
     text-align: center;
+}
+
+.form-control{
+    width: 40vw;
+    margin: auto;
 }
