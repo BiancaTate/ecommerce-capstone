@@ -1,29 +1,7 @@
 h1 {
     text-align: center;
 }
-.row {
-  display: flex;
-  margin: auto;
-}
 
-.column {
-  flex: 33.33%;
-  padding: 5px;
- 
-}
-.img1 {
-   position: absolute;
-   top: 150px;
-   left: 60px;
-   width: 300px;
- 
- }
- .img2 {
-  position: absolute;
-  top: 150px;
-  right: 60px;
-   width:300px
- }
  .intro{
  
   text-align: center;
@@ -35,3 +13,10 @@ h1 {
  p{
   font-weight: bold;
  }
+ .rounded {
+  width: 300px;
+  margin: auto;
+  padding: 0px;
+
+ }
+

@@ -5,11 +5,18 @@ h1{
 .form-control{
     width: 40vw;
     margin: auto;
+    border-color: black;
 }
 .mb-3{
     text-align: center;
    
 }
-
+.border{
+    padding: 0px;
+    width: 60vw;
+    height: 220px ;
+    margin: auto;
+    font-weight: bold;
+}
 
 

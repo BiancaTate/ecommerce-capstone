@@ -1,8 +1,21 @@
 .card{
     width: 30vw;
+    height: 600px;
     margin: 70px;
+    background-color: bisque;
+    border-color:white;
+    border-width: 10px;
+    outline: solid 4px black;
     
 }
 h1{
     text-align: center;
+}
+
+img{
+    height: 200px;
+    outline: solid 1px black;
+}
+h5{
+font-weight: bold;
 }

@@ -12,4 +12,17 @@ p{
 .form-control{
     width: 40vw;
     margin: auto;
+    border-color: black;
+}
+.border{
+    padding: 0px;
+    width: 60vw;
+    height: 400px ;
+    margin: auto;
+    font-weight: bold;
+}
+.btn{
+    border-width: 3px;    
+    
+
 }
