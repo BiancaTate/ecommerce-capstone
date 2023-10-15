@@ -3,7 +3,7 @@
 }
 
 .form-group{
-    width: 30vw;
+    width: 40vw;
     margin: auto;
   
 }
@@ -13,18 +13,33 @@ h1{
 thead{
    
 }
-.table{
-   width: 40vw;
-   margin: auto;
-    
-}
+
 h3{
     text-align: center;
 }
-h4{
-    text-align: center;
+.text-muted{
+    position: absolute;
+    right: 280px;
+    top:110px ;
+  
+   
 }
-button{
-   text
+.table{
+    width: 45vw;
+ }
+.cart{
+    
+  
+}
+.payment{
+   
+    border-color: black;
+    border-width: 20px;
+}
+
+.container{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row-reverse;
 }
 
