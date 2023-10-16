@@ -21,12 +21,11 @@ h3{
 }
 .table{
     width: 45vw;
+   
  }
 
-.payment{
-   
-    border-color: black;
-    border-width: 20px;
+.payments{
+  padding: 0%;
 }
 
 .container{

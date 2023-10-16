@@ -13,10 +13,16 @@ h1{
 }
 .border{
     padding: 0px;
+
     width: 60vw;
     height: 220px ;
     margin: auto;
     font-weight: bold;
+    outline: 5px black;
+    outline-style:double;
+    
+    
+    
 }
 
 
