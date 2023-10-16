@@ -3,7 +3,7 @@
 }
 
 .form-group{
-    width: 40vw;
+    width: 30vw;
     margin: auto;
   
 }
@@ -20,19 +20,24 @@ h3{
     top:110px ;
 }
 .table{
-    width: 45vw;
+    width: 30vw;
+    height: 50px;
+    align-content: flex-end;
    
  }
 
 .payments{
-  padding: 0%;
+  
 }
 
 .container{
     display: flex;
     justify-content: space-between;
-    flex-direction: row-reverse;
+    align-content: space-between;
 }
 caption{
     font-size:x-large;
+}
+.table{
+    
 }
