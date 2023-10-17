@@ -5,6 +5,7 @@
 .form-group{
     width: 30vw;
     margin: auto;
+    border-color: black;
   
 }
 h1{
@@ -40,3 +41,8 @@ h3{
 caption{
     font-size:x-large;
 }
+
+.form-control{
+    border-color: black;   
+}
+
